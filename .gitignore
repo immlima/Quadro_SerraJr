@@ -153,3 +153,4 @@ cython_debug/
 /test.py
 token.json
 client_secret.json
+*.json
